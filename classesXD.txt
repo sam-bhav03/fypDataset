@@ -1,0 +1,47 @@
+------- potato1 -------
+****testing****
+- Eb - 162
+- healthy - 102
+- Lb - 141
+total = 405
+
+****training****
+- Eb - 1303
+- healhty - 816
+- Lb - 1132
+total = 3251
+
+****validation****
+- Eb - 163
+- healhty - 102 
+- Lb - 151
+total = 416
+
+------- potato 2 -------
+****testing****
+- eb - 100
+- healthy - 100
+- lb - 100
+total =300
+
+****training****
+- eb - 300
+- healthy - 300
+- lb - 300
+total = 900
+
+****validation****
+- eb - 100
+- healthy - 100
+- lb - 100
+total = 300
+
+
+-------potato 3 --------
+AS/EB - 1055
+Healthy - 893
+insect - 302
+PS/LB - 1229
+Virus - 1012
+
+total = 4491
